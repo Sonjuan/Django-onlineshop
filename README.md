@@ -27,7 +27,7 @@ The current state of this App is not suitable for publishing
     * Need Category weights?
 
 * Docker :
-    * Need to manage docker containers by dockerfile
+    * Need to manage docker containers by docker-compose file
 
 * Static :
     * Handle static folders/files for Publishing

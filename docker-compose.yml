@@ -2,7 +2,7 @@ version: '3'
 services:
   web:
     build: .
-    command: python /code/
+    command: python /code/myshop/manage.py runserver 0.0.0.0:8000
     restart: always
     volumes:
       - .:/code
