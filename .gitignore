@@ -1,0 +1,4 @@
+/env/
+/myshop/db.sqlite3
+/myshop/.env
+/myshop/static
