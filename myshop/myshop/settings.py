@@ -146,6 +146,8 @@ STRIPE_WEBHOOK_SECRET = os.environ['STRIPE_WEBHOOK_SECRET']
 
 STATIC_ROOT = BASE_DIR / 'static'
 
-REDIS_HOST = 'localhost'
+REDIS_HOST = 'redis'
 REDIS_PORT = 6379
 REDIS_DB = 1
+
+CELERY_BROKER_URL = 'amqp://guest:guest@rabbitmq:5672/'

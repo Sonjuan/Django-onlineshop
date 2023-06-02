@@ -2,3 +2,5 @@
 /myshop/db.sqlite3
 /myshop/.env
 /myshop/static
+/myshop/dump.rdb
+/code/

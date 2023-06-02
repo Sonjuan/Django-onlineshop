@@ -28,6 +28,6 @@ The current state of this App is not suitable for publishing
 
 * Docker :
     * Need to manage docker containers by docker-compose file
-
-* Static :
-    * Handle static folders/files for Publishing
+    
+* Setting :
+    * Handling production env
